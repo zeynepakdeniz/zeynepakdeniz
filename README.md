@@ -1,4 +1,5 @@
-# 👋 Merhaba, ben Zeynep Akdeniz
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=2F81F7&center=true&vCenter=true&lines=👋+Merhaba,+ben+Zeynep+Akdeniz)](https://git.io/typing-svg)
+
 
 <!--
 **zeynepakdeniz/zeynepakdeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
