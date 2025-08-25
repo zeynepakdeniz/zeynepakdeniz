@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋 Merhaba, ben Zeynep Akdeniz
 
 <!--
 **zeynepakdeniz/zeynepakdeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
