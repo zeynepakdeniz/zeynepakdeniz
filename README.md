@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=2F81F7&center=true&vCenter=true&lines=👋+Merhaba,+ben+Zeynep+Akdeniz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=2F81F7&center=true&vCenter=true&lines=👋+Merhaba,+ben+Zeynep+Akdeniz)](https://git.io/typing-svg)
 
 
 <!--
